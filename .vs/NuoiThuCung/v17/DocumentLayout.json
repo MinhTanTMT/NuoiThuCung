@@ -1,0 +1,254 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GameDeverlop\\NuoiThuCung\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84F6B6AF-0C1E-5FFA-BE69-FC74AB03590A}|Assembly-CSharp.csproj|c:\\gamedeverlop\\nuoithucung\\assets\\script\\controllers\\textoutpush.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F6B6AF-0C1E-5FFA-BE69-FC74AB03590A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\controllers\\textoutpush.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F6B6AF-0C1E-5FFA-BE69-FC74AB03590A}|Assembly-CSharp.csproj|c:\\gamedeverlop\\nuoithucung\\assets\\script\\controllers\\eventmainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F6B6AF-0C1E-5FFA-BE69-FC74AB03590A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\controllers\\eventmainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F6B6AF-0C1E-5FFA-BE69-FC74AB03590A}|Assembly-CSharp.csproj|C:\\GameDeverlop\\NuoiThuCung\\assets\\script\\controllers\\evensceneincome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F6B6AF-0C1E-5FFA-BE69-FC74AB03590A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\controllers\\evensceneincome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F6B6AF-0C1E-5FFA-BE69-FC74AB03590A}|Assembly-CSharp.csproj|C:\\GameDeverlop\\NuoiThuCung\\assets\\script\\controllers\\pikachu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F6B6AF-0C1E-5FFA-BE69-FC74AB03590A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\controllers\\pikachu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F6B6AF-0C1E-5FFA-BE69-FC74AB03590A}|Assembly-CSharp.csproj|c:\\gamedeverlop\\nuoithucung\\assets\\script\\services\\chargameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F6B6AF-0C1E-5FFA-BE69-FC74AB03590A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\services\\chargameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F6B6AF-0C1E-5FFA-BE69-FC74AB03590A}|Assembly-CSharp.csproj|c:\\gamedeverlop\\nuoithucung\\assets\\script\\controllers\\coincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F6B6AF-0C1E-5FFA-BE69-FC74AB03590A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\controllers\\coincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F6B6AF-0C1E-5FFA-BE69-FC74AB03590A}|Assembly-CSharp.csproj|C:\\GameDeverlop\\NuoiThuCung\\assets\\script\\coinspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F6B6AF-0C1E-5FFA-BE69-FC74AB03590A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\coinspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F6B6AF-0C1E-5FFA-BE69-FC74AB03590A}|Assembly-CSharp.csproj|c:\\gamedeverlop\\nuoithucung\\assets\\script\\coinpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F6B6AF-0C1E-5FFA-BE69-FC74AB03590A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\coinpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F6B6AF-0C1E-5FFA-BE69-FC74AB03590A}|Assembly-CSharp.csproj|C:\\GameDeverlop\\NuoiThuCung\\assets\\script\\controllers\\chargamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F6B6AF-0C1E-5FFA-BE69-FC74AB03590A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\controllers\\chargamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 665,
+          "SelectedChildIndex": 22,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:127:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:126:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:122:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:123:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:125:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:124:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:127:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:121:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pikachu.cs",
+              "DocumentMoniker": "C:\\GameDeverlop\\NuoiThuCung\\Assets\\Script\\Controllers\\Pikachu.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Controllers\\Pikachu.cs",
+              "ToolTip": "C:\\GameDeverlop\\NuoiThuCung\\Assets\\Script\\Controllers\\Pikachu.cs",
+              "RelativeToolTip": "Assets\\Script\\Controllers\\Pikachu.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAIAwwFEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T14:23:11.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EvenSceneIncome.cs",
+              "DocumentMoniker": "C:\\GameDeverlop\\NuoiThuCung\\Assets\\Script\\Controllers\\EvenSceneIncome.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Controllers\\EvenSceneIncome.cs",
+              "ToolTip": "C:\\GameDeverlop\\NuoiThuCung\\Assets\\Script\\Controllers\\EvenSceneIncome.cs",
+              "RelativeToolTip": "Assets\\Script\\Controllers\\EvenSceneIncome.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAawCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T01:51:27.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventMainMenu.cs",
+              "DocumentMoniker": "C:\\GameDeverlop\\NuoiThuCung\\Assets\\Script\\Controllers\\EventMainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Controllers\\EventMainMenu.cs",
+              "ToolTip": "C:\\GameDeverlop\\NuoiThuCung\\Assets\\Script\\Controllers\\EventMainMenu.cs",
+              "RelativeToolTip": "Assets\\Script\\Controllers\\EventMainMenu.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T14:44:41.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TextOutPush.cs",
+              "DocumentMoniker": "C:\\GameDeverlop\\NuoiThuCung\\Assets\\Script\\Controllers\\TextOutPush.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Controllers\\TextOutPush.cs",
+              "ToolTip": "C:\\GameDeverlop\\NuoiThuCung\\Assets\\Script\\Controllers\\TextOutPush.cs",
+              "RelativeToolTip": "Assets\\Script\\Controllers\\TextOutPush.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAEwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T14:50:15.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CharGameService.cs",
+              "DocumentMoniker": "C:\\GameDeverlop\\NuoiThuCung\\Assets\\Script\\Services\\CharGameService.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Services\\CharGameService.cs",
+              "ToolTip": "C:\\GameDeverlop\\NuoiThuCung\\Assets\\Script\\Services\\CharGameService.cs",
+              "RelativeToolTip": "Assets\\Script\\Services\\CharGameService.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAawEUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T15:03:23.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CoinController.cs",
+              "DocumentMoniker": "C:\\GameDeverlop\\NuoiThuCung\\Assets\\Script\\Controllers\\CoinController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Controllers\\CoinController.cs",
+              "ToolTip": "C:\\GameDeverlop\\NuoiThuCung\\Assets\\Script\\Controllers\\CoinController.cs",
+              "RelativeToolTip": "Assets\\Script\\Controllers\\CoinController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAADwvx0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T09:19:47.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CoinSpawner.cs",
+              "DocumentMoniker": "C:\\GameDeverlop\\NuoiThuCung\\Assets\\Script\\CoinSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CoinSpawner.cs",
+              "ToolTip": "C:\\GameDeverlop\\NuoiThuCung\\Assets\\Script\\CoinSpawner.cs",
+              "RelativeToolTip": "Assets\\Script\\CoinSpawner.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T09:22:16.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CharGameController.cs",
+              "DocumentMoniker": "C:\\GameDeverlop\\NuoiThuCung\\Assets\\Script\\Controllers\\CharGameController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Controllers\\CharGameController.cs",
+              "ToolTip": "C:\\GameDeverlop\\NuoiThuCung\\Assets\\Script\\Controllers\\CharGameController.cs",
+              "RelativeToolTip": "Assets\\Script\\Controllers\\CharGameController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAtwDIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T02:38:27.122Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 115,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CoinPool.cs",
+              "DocumentMoniker": "C:\\GameDeverlop\\NuoiThuCung\\Assets\\Script\\CoinPool.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CoinPool.cs",
+              "ToolTip": "C:\\GameDeverlop\\NuoiThuCung\\Assets\\Script\\CoinPool.cs",
+              "RelativeToolTip": "Assets\\Script\\CoinPool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T09:21:47.509Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
